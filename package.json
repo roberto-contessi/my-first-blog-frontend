@@ -1,0 +1,14 @@
+{
+  "name": "bootsrap-sass",
+  "version": "1.0.0",
+  "description": "Il mio test di bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roberto",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
