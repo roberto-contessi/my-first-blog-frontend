@@ -1,14 +1,17 @@
 {
-  "name": "bootsrap-sass",
+  "name": "sg-test",
   "version": "1.0.0",
   "description": "Il mio test di bootstrap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "roberto",
+  "author": "Samuele",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^4.4.1",
+    "bootstrap-icons": "^1.0.0-alpha2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
   }
 }

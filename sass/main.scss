@@ -5,3 +5,18 @@ body {
 h1 {
     background-color: grey;
 }
+
+.page-hero {
+    .page-hero-content {
+        min-height: 336px;
+    }
+    background: pink;
+}
+
+img {
+    opacity: 1;
+    transition: opacity 0.3s ease-out;
+    &.lazy {
+        opacity: 0.2;
+    }
+}

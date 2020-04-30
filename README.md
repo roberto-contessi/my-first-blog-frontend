@@ -1,1 +1,1 @@
-# my-first-blog-frontend
+# my-first-awesome-repo
